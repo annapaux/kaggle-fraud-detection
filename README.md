@@ -6,7 +6,7 @@ fraudulent transactions. The dataset has transaction and individual
 based observations, which are combined via the TransactionID.
 
 After one-hot-encoding categorical variables and combining the data, there are
-up to 1773 features. The training data has 395,662 observations, and the test
+up to 1,773 features. The training data has 395,662 observations, and the test
 set has 194,880.
 
 The model's auc score on the training data is approximately 0.94.
